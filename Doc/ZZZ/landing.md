@@ -14,7 +14,7 @@ IntroContent={Introduction.sec}<br><br>{FormDoc.sec}<br>{PageTabs.sec}<br>{Docum
 
 Introduction.sec=This website is for privacy documents.<br><br>"Privacy" at its narrowest is privacy policies.  More broadly, it includes all documents that govern handling of information relating to persons.  This arises in many contexts.
 
-FormDoc.sec=When you click on the first link below, you will see a license agreement.
+FormDoc.sec=When you click on the first link below, you will see a simple privacy policy created by Tim Moynihan of Moynihan Partners</a>.  It is, of course, only an example, intended to be adapted and extended. 
  
 DocumentsFolder.sec=<a href="index.php?action=list&file=/">Folder with all the documents.</a>
 
