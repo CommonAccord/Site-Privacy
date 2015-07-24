@@ -18,4 +18,4 @@ FormDoc.sec=When you click on the first link below, you will see a simple privac
  
 DocumentsFolder.sec=<a href="index.php?action=list&file=/">Folder with all the documents.</a>
 
-=[ZZZ/ListOfCommonAccordWebsites.md]
+=[?https://raw.githubusercontent.com/CommonAccord/Site-Org/master/Doc/Website/ListOfCommonAccordWebsites.md]
