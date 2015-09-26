@@ -50,7 +50,7 @@ Doc.Version=Updated: 17 November 2011
 
 5.2.sec=You may request at any time that the OECD corrects your personal information in its records. You may also request the deletion of such information, except when it has been collected for a specific purpose for which you have given your consent, for the performance of a contract to which you are a party, or in order to comply with a legal obligation. For such requests, please send an e-mail to the relevant contacts indicated on the website where you registered, e.g. <a href="mailto:oecddirect@oecd.org">oecddirect@oecd.org</a>, <a href="mailto:oecdilibrary@oecd.org">oecdilibrary@oecd.org</a> or <a href="mailto:webmaster@oecd.org">webmaster@oecd.org</a>.
 
-5.=[Z/Sec/s4]
+5.=[Z/Sec/s2]
 
 6.Ti=Notification of Changes
 
